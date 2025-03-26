@@ -1,4 +1,4 @@
-# Estudo de Caso
+# Case: Data Warehouse e Análise Exploratória
 ## Contexto
 A corretora de seguros em que você foi contratado está em um momento de
 expansão e precisa construir uma plataforma analítica robusta para consolidar
